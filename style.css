@@ -1,24 +1,28 @@
 body {
-    background-color: lavenderblush;
+    background-color: oldlace;
     font-family: sans-serif;
     padding-bottom: 30px;
     padding: 0px 5% 30px;
 }
 
 h1 {
-    color: deeppink;
+    font-family: serif;
     text-align: center;
+    color: firebrick;
 }
 
 h2 {
-    color: lightpink;
-    text-align: center;
+    font-family: serif;
 }
-
 p {
-  color: hotpink;
+  font-family: monospace;
+    color: darkred;
 }
-
 img {
     width: 250px;
 }
+hr { 
+    color: black;
+}
+
+
